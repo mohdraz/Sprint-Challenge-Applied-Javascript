@@ -46,7 +46,7 @@ so, we can use array methods and functionally to style and update nodelist objec
 
 5. What is a component?
 
-components are block of codes and function in javascript that tells browser how a particular sections show appear in UI
+components are block of codes and function in javascript that tells browser how a particular sections show appear in UI. It use the concept of DRY to ensure codes are not repeated that are often used on the webpage. 
 
 ### Git Set up
 
